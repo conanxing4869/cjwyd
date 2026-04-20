@@ -39,4 +39,4 @@ git push -u origin main
 - 推送时 GitHub 会要求登录
 - 推荐使用 **Personal Access Token (PAT)** 作为密码
   - 生成地址：GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
-  - 权限勾选：`repo`
+  - 权限勾选：`repo`ajshaidhqu
